@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lei nº 15.270/2025 – Impactos para Empresários</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    section { page-break-after: always; padding: 60px; }
+    h1, h2, h3 { color: #003366; margin-bottom: 16px; }
+    ul { margin-top: 8px; }
+    .title-slide { display: flex; flex-direction: column; justify-content: center; height: 100vh; background: #f4f7fb; }
+    .title-slide h1 { font-size: 36px; }
+    .title-slide h2 { font-size: 22px; color: #0055aa; }
+    .subtitle { color: #555; margin-top: 8px; }
+    .notes { margin-top: 20px; font-style: italic; color: #666; }
+    table { border-collapse: collapse; width: 100%; }
+    table, th, td { border: 1px solid #333; }
+    th, td { padding: 8px; text-align: left; }
+  </style>
+</head>
+<body>
+
+<!-- SLIDE 1 -->
+<section class="title-slide">
+  <h1>Lei nº 15.270/2025</h1>
+  <h2>Impactos para Empresários e Estratégias de Investimentos</h2>
+  <p class="subtitle">Treinamento para Assessores – Escritório XP</p>
+  <p class="notes">Notas de fala: apresentar objetivo e público; enfatizar que a apresentação combina análise tributária e soluções de investimento.</p>
+</section>
+
+<!-- SLIDE 2 -->
+<section>
+  <h2>Objetivo do Treinamento</h2>
+  <ul>
+    <li>Explicar efeitos tributários relevantes da Lei 15.270/2025</li>
+    <li>Identificar riscos e oportunidades para empresários</li>
+    <li>Apresentar estratégias de alocação que respeitem a legislação</li>
+    <li>Fornecer roteiro de atuação do assessor com foco em compliance</li>
+  </ul>
+  <p class="notes">Notas de fala: reforçar coordenação com contador e advogado do cliente.</p>
+</section>
+
+<!-- SLIDE 3 -->
+<section>
+  <h2>Síntese legal essencial</h2>
+  <ul>
+    <li>A lei altera o tratamento de distribuições a pessoas físicas a partir de 2026</li>
+    <li>Referência prática: R$ 50.000/mês e R$ 600.000/ano</li>
+    <li>Retenções na fonte e ajuste anual conforme normas aplicáveis</li>
+    <li>Observação legal: detalhes operacionais dependem de regulamentação e instruções da Receita Federal</li>
+  </ul>
+  <p class="notes">Notas de fala: alertar que interpretações práticas podem mudar com normas infralegais.</p>
+</section>
+
+<!-- SLIDE 4 -->
+<section>
+  <h2>Regras de transição e formalidades societárias</h2>
+  <ul>
+    <li>Lucros apurados até 31/12/2025 podem manter tratamento anterior</li>
+    <li>Exigir documentação societária formal: atas, demonstrações, laudos</li>
+    <li>Prazos de pagamento e condições contratuais devem ser observados</li>
+  </ul>
+  <p class="notes">Notas de fala: orientar cliente a formalizar deliberações com contador.</p>
+</section>
+
+<!-- SLIDE 5 -->
+<section>
+  <h2>O que compõe a base de cálculo para o limite</h2>
+  <h3>Não compõem (isentos)</h3>
+  <ul>
+    <li>FIIs (distribuições mensais isentas)</li>
+    <li>CRIs/CRAs</li>
+    <li>Debêntures incentivadas</li>
+    <li>LCI/LCA</li>
+    <li>Previdência</li>
+  </ul>
+  <h3>Compõem (tributáveis)</h3>
+  <ul>
+    <li>Dividendos da empresa</li>
+    <li>Cupons de debêntures comuns</li>
+    <li>Juros de renda fixa</li>
+    <li>Resgates com ganho tributável</li>
+  </ul>
+  <p class="notes">Notas de fala: classificação factual e contábil é decisiva.</p>
+</section>
+
+<!-- SLIDE 6 -->
+<section>
+  <h2>Risco oculto para clientes que querem ficar abaixo do limite</h2>
+  <ul>
+    <li>Carteiras com renda tributável periódica podem elevar a renda total</li>
+    <li>Risco reputacional para o assessor se o cliente for surpreendido</li>
+    <li>Necessidade de monitoramento contínuo do fluxo de renda</li>
+  </ul>
+  <p class="notes">Notas de fala: exemplificar com cupons mensais e distribuições de fundos.</p>
+</section>
+
+<!-- SLIDE 7 -->
+<section>
+  <h2>Estratégia por perfil de distribuição</h2>
+  <table>
+    <tr><th>Faixa</th><th>Objetivo</th><th>Estratégia</th></tr>
+    <tr><td>Até 50.000/mês</td><td>Evitar tributação adicional</td><td>Priorizar ativos isentos; carteira sem distribuições tributáveis</td></tr>
+    <tr><td>50.000–100.000/mês</td><td>Reduzir impacto</td><td>Carteira híbrida: isentos + diferimento + instrumentos tributados controlados</td></tr>
+    <tr><td>Acima de 100.000/mês</td><td>Minimizar imposto líquido</td><td>Isentos, diferimento, tributados para compensação, holdings</td></tr>
+  </table>
+  <p class="notes">Notas de fala: usar tabela para segmentar clientes e priorizar ações.</p>
+</section>
+
+<!-- SLIDE 8 -->
+<section>
+  <h2>Produtos Isentos e FIIs (corrigido)</h2>
+  <h3>Distribuições mensais de FIIs</h3>
+  <ul>
+    <li>Isentas para pessoa física quando o fundo cumpre requisitos legais</li>
+    <li>Não compõem a base de cálculo do limite de R$ 50 mil/mês</li>
+    <li>Fonte de renda “segura” do ponto de vista tributário</li>
+  </ul>
+  <h3>Ganho de capital na venda de cotas</h3>
+  <ul>
+    <li>Tributado quando há lucro na alienação</li>
+    <li>Deve ser considerado no planejamento fiscal</li>
+    <li>Risco: vendas por liquidez ou rebalanceamento geram IR</li>
+  </ul>
+  <h3>Estratégia recomendada</h3>
+  <ul>
+    <li>Focar em FIIs com distribuição elevada e sustentável</li>
+    <li>Gerenciar risco de realização de ganho de capital</li>
+    <li>Avaliar liquidez e sustentabilidade do yield</li>
+  </ul>
+  <p class="notes">Notas de fala: FIIs são úteis para renda isenta, mas o assessor deve controlar vendas.</p>
+</section>
+
+<!-- SLIDE 9 -->
+<section>
+  <h2>Produtos Isentos Limitações e Controle de Renda</h2>
+  <ul>
+    <li>Liquidez, risco de crédito, concentração setorial</li>
+    <li>Preferir instrumentos que paguem rendimento isento</li>
+    <li>Registrar estratégia por escrito com o cliente</li>
+  </ul>
+  <p class="notes">Notas de fala: reforçar due diligence e monitoramento.</p>
+</section>
+
+<!-- SLIDE 10 -->
+<section>
+  <h2>Estratégia 1 — Até 50.000/mês</h2>
+  <ul>
+    <li>Priorizar renda isenta e ativos sem distribuição tributável</li>
+    <li>FIIs com distribuição estável</li>
+    <li>CRIs/CRAs e debêntures incentivadas</li>
+    <li>Previdência para acumulação</li>
+    <li>Evitar cupons tributáveis</li>
+  </ul>
+  <p class="notes">Notas de fala: isenção protege do limite, mas atenção à realização de ganhos.</p>
+</section>
+
+<!-- SLIDE 11 -->
+<section>
+  <h2>Estratégia 2 — 50 a 100.000/mês</h2>
+  <ul>
+    <li>Equilibrar renda e acumulação</li>
+    <li>Parcela isenta para renda</li>
+    <li>Previdência/ETFs para diferimento
+
+<!-- SLIDE 12 -->
+<section>
+  <h2>Estratégia 3 Detalhada Acima de 100.000/mês</h2>
+  <ul>
+    <li>Prioridade: reduzir imposto líquido sem violar regras</li>
+    <li>Ferramentas: holdings patrimoniais, fundos exclusivos, previdência</li>
+    <li>Carteira tributada para gerar IR compensável mediante realização de ganhos</li>
+    <li>Risco: ganhos tributáveis aumentam renda; compensação é possível, mas não elimina custo fiscal</li>
+  </ul>
+  <p class="notes">Notas de fala: compensação é técnica de gestão fiscal, não isenção.</p>
+</section>
+
+<!-- SLIDE 13 -->
+<section>
+  <h2>Diferimento tributário explicado</h2>
+  <ul>
+    <li>Conceito: postergar o pagamento do imposto, preservando capital para acumulação</li>
+    <li>Instrumentos: PGBL/VGBL, ETFs, fundos de ações, fundos de previdência</li>
+    <li>Efeito prático: reduz atrito fiscal durante acumulação</li>
+    <li>Impacto no ajuste anual depende de resgates e regime tributário escolhido</li>
+  </ul>
+  <p class="notes">Notas de fala: alertar sobre escolha entre tabela progressiva e regressiva na previdência.</p>
+</section>
+
+<!-- SLIDE 14 -->
+<section>
+  <h2>Produtos tributados e uso estratégico</h2>
+  <ul>
+    <li>Produtos: ETFs, fundos de ações, multimercados, CDBs com juros periódicos</li>
+    <li>Uso: realização de ganhos planejada para gerar IR passível de compensação</li>
+    <li>Cuidado: ganhos realizados aumentam base de renda no período</li>
+    <li>Planejar timing e montante</li>
+  </ul>
+  <p class="notes">Notas de fala: compensação exige documentação e registro contábil correto.</p>
+</section>
+
+<!-- SLIDE 15 -->
+<section>
+  <h2>Exemplo numérico corrigido e transparente</h2>
+  <ul>
+    <li>Cenário: cliente recebe R$ 120.000/mês em dividendos → IRPFM 10%</li>
+    <li>Realização de ganhos: carteira tributada gera R$ 200.000 de ganho anual → IR 15% = R$ 30.000</li>
+    <li>Efeito: IR pago nos investimentos pode abater imposto devido</li>
+    <li>Esse IR decorre de ganho que aumentou a renda; operação deve ser planejada</li>
+  </ul>
+  <p class="notes">Notas de fala: não existe imposto “bom”; é gestão de créditos fiscais.</p>
+</section>
+
+<!-- SLIDE 16 -->
+<section>
+  <h2>Procedimentos de compliance e documentação</h2>
+  <ul>
+    <li>Registrar deliberações societárias até prazos legais</li>
+    <li>Manter demonstrativos e comprovantes de rendimentos e resgates</li>
+    <li>Coordenar com contador para lançamentos e retenções na fonte</li>
+    <li>Preparar simulações fiscais anuais e relatórios para o cliente</li>
+  </ul>
+  <p class="notes">Notas de fala: risco de autuação por falta de documentação.</p>
+</section>
+
+<!-- SLIDE 17 -->
+<section>
+  <h2>Checklist prático para o assessor</h2>
+  <ul>
+    <li>Mapear renda mensal total do cliente (empresa + investimentos)</li>
+    <li>Classificar cada ativo quanto à natureza do rendimento</li>
+    <li>Simular cenários de distribuição e resgate com impacto fiscal</li>
+    <li>Propor carteira alinhada ao perfil e objetivo fiscal</li>
+    <li>Agendar revisão semestral com contador e cliente</li>
+  </ul>
+  <p class="notes">Notas de fala: transformar checklist em procedimento padrão do escritório.</p>
+</section>
+
+<!-- SLIDE 18 -->
+<section>
+  <h2>Mensagens legais finais e limitações</h2>
+  <ul>
+    <li>Estratégias dependem de interpretação normativa e instruções da Receita Federal</li>
+    <li>Recomendar parecer contábil e, quando necessário, parecer jurídico individualizado</li>
+    <li>Evitar promessas de redução de tributo sem análise documental</li>
+  </ul>
+  <p class="notes">Notas de fala: posicionar o assessor como facilitador de decisões informadas.</p>
+</section>
+
+<!-- SLIDE 19 -->
+<section>
+  <h2>Próximos passos operacionais</h2>
+  <ul>
+    <li>Implementar modelo de avaliação de clientes por faixa</li>
+    <li>Treinar equipe em classificação de ativos e simulações fiscais</li>
+    <li>Criar pacote de documentação padrão para deliberações societárias</li>
+    <li>Oferecer reuniões conjuntas com contador do cliente</li>
+  </ul>
+  <p class="notes">Notas de fala: propor cronograma de implementação no escritório.</p>
+</section>
+
+<!-- SLIDE 20 -->
+<section>
+  <h2>Encerramento</h2>
+  <p>Mensagem: conformidade tributária e eficiência patrimonial caminham juntas; o assessor que integrar contabilidade, direito e investimentos agrega valor real ao empresário.</p>
+  <p class="notes">Notas de fala: convidar para sessão prática com casos reais do escritório.</p>
+</section>
+
+</body>
+</html>
